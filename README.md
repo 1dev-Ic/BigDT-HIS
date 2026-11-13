@@ -1,8 +1,8 @@
 # BigDT HIS — ASCHMA Enrollee Dashboard
 
-BigDT HIS is a lightweight web dashboard developed to help the Adamawa State Contributory Health Management Agency (ASCHMA) work with health enrollee records. It was used by the agency for a short period in 2025 while its institutional server was experiencing a major outage, providing a temporary local way to view and manage enrollee data.
+BigDT HIS is a lightweight web dashboard developed by **Chahyaandida Ishaya** to help the Adamawa State Contributory Health Management Agency (ASCHMA) work with health enrollee records. It was used by the agency for a short period in 2025 while its institutional server was experiencing a major outage, providing a temporary local way to view and manage enrollee data.
 
-The application reads enrollee records from a CSV file and provides facility-level summaries and practical enrollee administration tools.
+The application reads enrollee records from a CSV file and provides facility-level summaries and enrollee administration tools.
 
 ## Features
 
@@ -58,4 +58,8 @@ The repository is configured for local development and should not be exposed dir
 
 ## Acknowledgement
 
-Developed for the Adamawa State Contributory Health Management Agency (ASCHMA).
+Developed by **Chahyaandida Ishaya** for the Adamawa State Contributory Health Management Agency (ASCHMA) as a temporary support tool during the 2025 institutional server outage.
+
+## Author
+
+**Chahyaandida Ishaya** — project developer.
